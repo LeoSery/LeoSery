@@ -5,4 +5,5 @@
 - I am currently looking for an apprenticeship in game programming, software development or web development, contact me on linkedin!
 
 check out my new website: https://leo-sery.vercel.app/
+
 my linkedin : https://www.linkedin.com/in/leosery/
