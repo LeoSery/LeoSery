@@ -1,6 +1,6 @@
 ## 💫 About Me:
 
-### Hi there 👋<br><br>- I'm student programming in Bordeaux YNOV Campus 🎓<br>- I'm currently working on new Unity and Unreal games! 🎮<br><br> I'm currently working on the project P for [Caprentic](https://www.carpentic.com/).
+### Hi there 👋<br><br>- I'm student programming in Bordeaux YNOV Campus 🎓<br>- I'm currently working on new Unity and Unreal games!
 
 ## 🌐 Socials:
 
