@@ -58,4 +58,4 @@ Dynamic chunk-based terrain generator with multi-threaded generation - [View Rep
 I'm currently looking for opportunities in game engine development and tools programming. Feel free to reach out if you'd like to collaborate or have any questions!
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-leosery.com/contact-orange?style=flat&logo=globe)](https://www.leosery.com/contact)
-[![Email](https://img.shields.io/badge/Email-contact-pro@leosery.com-blue?style=flat&logo=gmail)](mailto:contact-pro@leosery.com)
+[![Email](https://img.shields.io/badge/Email-contact--pro@leosery.com-blue?style=flat&logo=mail)](mailto:contact-pro@leosery.com)
